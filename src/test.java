@@ -1,5 +1,6 @@
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("test 출력2");
+		System.out.println("test 출력3");
 	}
 }
+
